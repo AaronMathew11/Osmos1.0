@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "687214478426",
+    "project_id": "osmos-f5e70",
+    "storage_bucket": "osmos-f5e70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687214478426:android:caee5961fbcaf5b9cac463",
+        "android_client_info": {
+          "package_name": "com.example.awt10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687214478426-sr30ug6445qgfuj4bbqi61cpvoab1o85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.awt10",
+            "certificate_hash": "f0da7b6a934787e2f2f0d4357927098a8e6991b4"
+          }
+        },
+        {
+          "client_id": "687214478426-1a6e44tb8en53uh24t0i8ffgun9rue7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvewIW_AqTuJWSiO6nIx3Xb21IOvor-2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687214478426-1a6e44tb8en53uh24t0i8ffgun9rue7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

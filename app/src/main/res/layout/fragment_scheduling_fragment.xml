@@ -25,33 +25,39 @@
             android:layout_marginTop="30dp"
             android:layout_height="wrap_content"
             android:text="Process Scheduling"
+            android:onClick="processcalc"
             android:padding="20sp"
             />
         <Button
+            android:id="@+id/pro_manbtn"
             android:layout_width="250sp"
             android:layout_height="wrap_content"
-            android:text="Problem x"
+            android:text="Process Management"
             android:padding="20sp"
             />
         <Button
+            android:id="@+id/pro_crebtn"
             android:layout_width="250sp"
             android:layout_height="wrap_content"
-            android:text="Problem x"
+            android:text="Process Cration"
             android:padding="20sp"
             />
         <Button
+            android:id="@+id/mem_manbtn"
             android:layout_width="250sp"
             android:layout_height="wrap_content"
-            android:text="Problem x"
+            android:text="Memory Management"
             android:padding="20sp"
             />
         <Button
+            android:id="@+id/file_btn"
             android:layout_width="250sp"
             android:layout_height="wrap_content"
-            android:text="Problem x"
+            android:text="File Handling"
             android:padding="20sp"
             />
         <Button
+            android:id="@+id/probx_btn"
             android:layout_width="250sp"
             android:layout_height="wrap_content"
             android:text="Problem x"

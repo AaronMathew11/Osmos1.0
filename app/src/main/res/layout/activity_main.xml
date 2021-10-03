@@ -10,14 +10,6 @@
        android:id="@+id/wrapper"
        android:layout_width="match_parent"
        android:layout_height="match_parent" />
-   <ImageButton
-       android:layout_width="wrap_content"
-       android:layout_height="wrap_content"
-      android:src="@drawable/ic_baseline_menu_24"
-       android:padding="20sp"
-       android:layout_alignEnd="@id/wrapper"
-       android:background="?attr/selectableItemBackgroundBorderless"
-       />
 
    <com.google.android.material.bottomnavigation.BottomNavigationView
        android:id="@+id/bottom_nav"
