@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/aaron/AndroidStudioProjects/upload all projects/AppStack/OsmOS/app/src/main/res/drawable/white_button.xml" value="0.14537037037037037" />
+        <entry key="..\:/Users/aaron/AndroidStudioProjects/upload all projects/AppStack/OsmOS/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/aaron/AndroidStudioProjects/upload all projects/AppStack/OsmOS/app/src/main/res/layout/activity_main.xml" value="0.196875" />
+        <entry key="..\:/Users/aaron/AndroidStudioProjects/upload all projects/AppStack/OsmOS/app/src/main/res/layout/activity_splashscreen.xml" value="0.196875" />
+        <entry key="..\:/Users/aaron/AndroidStudioProjects/upload all projects/AppStack/OsmOS/app/src/main/res/layout/dropdown.xml" value="0.196875" />
+        <entry key="..\:/Users/aaron/AndroidStudioProjects/upload all projects/AppStack/OsmOS/app/src/main/res/layout/fragment_feedback_fragment.xml" value="0.196875" />
+        <entry key="..\:/Users/aaron/AndroidStudioProjects/upload all projects/AppStack/OsmOS/app/src/main/res/layout/fragment_home_fragment.xml" value="0.196875" />
+        <entry key="..\:/Users/aaron/AndroidStudioProjects/upload all projects/AppStack/OsmOS/app/src/main/res/layout/fragment_process_scheduling_info.xml" value="0.196875" />
+        <entry key="..\:/Users/aaron/AndroidStudioProjects/upload all projects/AppStack/OsmOS/app/src/main/res/layout/fragment_profile_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/aaron/AndroidStudioProjects/upload all projects/AppStack/OsmOS/app/src/main/res/layout/fragment_scheduling_fragment.xml" value="0.196875" />
+        <entry key="..\:/Users/aaron/AndroidStudioProjects/upload all projects/AppStack/OsmOS/app/src/main/res/layout/white_button.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/aaron/AndroidStudioProjects/upload all projects/AppStack/OsmOS/app/src/main/res/menu/nav_menu.xml" value="0.196875" />
+        <entry key="..\:/Users/aaron/AndroidStudioProjects/upload all projects/AppStack/OsmOS/app/src/main/res/menu/options_menu.xml" value="0.196875" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

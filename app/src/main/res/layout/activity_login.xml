@@ -4,11 +4,26 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#DEDEE3"
+    android:gravity="center_vertical|center_horizontal"
+    android:orientation="vertical"
     tools:context=".Login_activity">
 
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="OsmOs"
+    android:textSize="60sp"
+    android:textColor="@color/black"
+    android:gravity="center_horizontal"
+    android:layout_marginTop="-80dp"
+    android:fontFamily="casual"
+    />
 
     <com.google.android.gms.common.SignInButton
         android:id="@+id/btnsignin"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        />
 </LinearLayout>
